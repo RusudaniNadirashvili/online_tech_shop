@@ -123,7 +123,25 @@ article p{
  }
 
  .product{
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+   }
 
+.product li{
+  width: 400px;
+   align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
  }
-
+ .list li::after {
+  display: block;
+  background-color: #4d4d4d;
+  position: relative;
+  width: 46px;
+  height: 7px;
+  top: 50px;
+  left: 350px;
+ }
 
