@@ -88,6 +88,20 @@ margin: 0 auto;
   position: absolute;
   left: 0;
 }
+
+.main-product{
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  margin-bottom: 115px;
+  padding:  0 20px;
+}
+.main-product img{
+  width: 400px;
+  height: 400px;
+
+}
+
 article{
  height: calc(100vh -60);
   display: flex;
