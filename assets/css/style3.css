@@ -77,17 +77,19 @@ header{
   
 }
 
-.buy a{
+.buy a {
   font-size: 12px;
   font-weight: bold;
-  border-radius: 5px;
-  border: 1px solid #707070;
+  border: 1px solid  #707070;
   padding: 10px 30px 10px 20px;
-  line-height: 2.33;
-  
-  }
+  border-radius: 5px ;
+  background-color: #707070;
+  opacity: .5;
 
-.Rectangles {
+}
+
+
+.Rectangles  {
   width:362px;
 }
 
@@ -98,7 +100,7 @@ footer{
   right: 0;
   height: 330px;
   z-index: -1;
-  
+
 }
 
 .footer-div{
