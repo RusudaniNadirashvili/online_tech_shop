@@ -55,10 +55,3 @@ header{
 	flex-direction: column;
 	justify-content: space-between;
 }
- p {
-	display: flex;
-	width: 331px;
-  height: 24px;
-	justify-content: space-between;
-	flex-direction: row;
-}

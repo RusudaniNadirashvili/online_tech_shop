@@ -1,15 +1,15 @@
 @font-face {
-	font-family: neune_bold;
+	font-family: helvetica_neue_bold;
 	src: url(../fonts/helvetica_neue_bold.ttf);
 }
 
 
 	@font-face {
-	font-family: neue_roman;
+	font-family:elvetica_neue_roman;
 	src: url(../fonts/helvetica_neue_roman.ttf);
 }
 	@font-face {
-	font-family: light;
+	font-family: helvetica_neue_light;
 	src: url(../fonts/helvetica_neue_light.ttf);
 }
 
@@ -23,7 +23,7 @@
 	margin:0;
 	padding: 0;
 	color: #4d4d4d;
-	font-family: light;
+	font-family: helvetica_neue_light;;
 }
 
 body {
@@ -198,31 +198,4 @@ address {
 
 
 
- 	.socials {
-
- 		flex-direction: column;
- 		margin-left: 250px;
- 		margin-top: -187px;
- 	} 
- 	.containter{
- 		flex-direction: column;
- 	}
-
- 	footer {
- 		margin-top: 130px;
- 	}
  	
- 	.products_img{
- 		width: 80px;
- 	}
- 	.svg_div{
- 		width: 100px;
- 	}
- 	.price{
- 		padding-right:0px;
- 	}
-
- 	h2{
- 		font-size: 16px;
- 	}
-}
